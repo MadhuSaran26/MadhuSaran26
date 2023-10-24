@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Madhumitha Saravanan
-- 🌱 I'm an innovative researcher with more than three years of experience in the field of Data Science, Machine Learning and Deep Learning
-- 💞️ I'm currently pursuing my Master's degree in Computer Science at Arizona State University, and will be graduating in May '24
-- 👀 I’m interested in Deep Learning, Computer Vision and Natural Language Processing
-- 📫 I'll be available at madhusaranvj@gmail.com
+🚀 I'm Madhumitha, a Computer Science Master's candidate at Arizona State University set to graduate in May 2024, specializing in Computer Vision and Deep Learning. My passion lies in pushing the boundaries of AI and data science.
 
-<!---
-MadhuSaran26/MadhuSaran26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔬 With a strong foundation in designing object detection and tracking models, I've contributed to firearm and suspicious aircraft detection projects at Teuvonet. At Siemens, I enhanced anomaly and object detection using foundational models.
+
+📊 In my corporate career, I designed machine learning backed product launch models, forecasting drug placement in evolving therapies, consumer response analysis through text mining and so on for pharmaceuticals, thus boosting success rates significantly. As a data scientist, I led teams, managed tight deadlines, and contributed to business development through research POCs and project pitches.
+
+🌟 As a first-generation graduate student, I'm proactive in learning and committed to advancing technology. I'm currently seeking full-time roles starting in May 2024 as a Machine Learning Engineer, Deep Learning Engineer, Computer Vision Engineer, Data Scientist, or Applied Scientist.
+
+Let's connect and explore the possibilities of AI to innovate and solve real-world challenges together!
