@@ -1,3 +1,5 @@
+![](Github_giphy.gif)
+
 🚀 I'm Madhumitha, a Computer Science Master's candidate at Arizona State University set to graduate in May 2024, specializing in Computer Vision and Deep Learning. My passion lies in pushing the boundaries of AI and data science.
 
 🔬 With a strong foundation in designing object detection and tracking models, I've contributed to firearm and suspicious aircraft detection projects at Teuvonet. At Siemens, I enhanced anomaly and object detection using foundational models.
