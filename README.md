@@ -1,4 +1,4 @@
-![](Github_giphy.gif)
+![](GIthub_giphy.gif)
 
 🚀 I'm Madhumitha, a Computer Science Master's candidate at Arizona State University set to graduate in May 2024, specializing in Computer Vision and Deep Learning. My passion lies in pushing the boundaries of AI and data science.
 
