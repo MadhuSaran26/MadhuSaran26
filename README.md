@@ -6,5 +6,5 @@
 
 🌟 As a first-generation graduate student, I'm proactive in learning and committed to advancing technology. I'm currently seeking full-time roles starting in May 2024 as a Machine Learning Engineer, Deep Learning Engineer, Computer Vision Engineer, Data Scientist, or Applied Scientist.
 
-![Readme gif](https://drive.google.com/file/d/1s_1bhqv3bh7QKm3HvVggKdtoHwT5cxDK/view?usp=drive_link)
+![Readme gif](GIthub_giphy)
 
